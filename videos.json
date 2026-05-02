@@ -1,14 +1,14 @@
 [
   {
     "id": "v1",
-    "url": "https://github.com/nourozblue/purple/blob/4bae6e9d34c239f90e522bb1d8db737d4f301e12/clip.mp4",
-    "title": "Welcome",
-    "caption": "First trending video 🎉"
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "title": "Big Buck Bunny",
+    "caption": "Test video 🐰"
   },
   {
     "id": "v2",
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/status-videos/main/clip2.mp4",
-    "title": "Funny moment",
-    "caption": "Something fun 😂"
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "title": "Elephants Dream",
+    "caption": "Another test ✨"
   }
 ]
