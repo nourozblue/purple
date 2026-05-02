@@ -1,14 +1,14 @@
 [
   {
     "id": "v1",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
     "title": "Big Buck Bunny",
-    "caption": "Test video 🐰"
+    "caption": "1MB test clip 🐰"
   },
   {
     "id": "v2",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-    "title": "Elephants Dream",
-    "caption": "Another test ✨"
+    "url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_2MB.mp4",
+    "title": "Higher quality",
+    "caption": "2MB test clip ✨"
   }
 ]
